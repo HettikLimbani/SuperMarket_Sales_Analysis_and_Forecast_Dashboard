@@ -12,7 +12,7 @@ To contribute to the success of a business by using data analysis techniques, sp
 
 ### 📁 Data Source  
 The dataset can be accessed via:  
-📌 **Datasets Folder**: https://github.com/HettikLimbani/SuperMarket_Sales_Analysis_and_Forecast_Dashboard/tree/main/Datasets
+📌 **Datasets Folder**: https://github.com/HettikLimbani/SuperStore_Sales_Analysis_and_Forecast_Dashboard/tree/main/Datasets
 
 ---
 
@@ -50,7 +50,7 @@ Data Visualization libraries (Matplotlib, Seaborn, or Power BI)
 
 ### 📥 Installation & Setup
 1. Clone the repository
-git clone https://github.com/HettikLimbani/SuperMarket_Sales_Analysis_and_Forecast_Dashboard/
+git clone https://github.com/HettikLimbani/SuperStore_Sales_Analysis_and_Forecast_Dashboard/
 
 2. Open Power BI and load the processed dataset.
 ---
