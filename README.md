@@ -1,4 +1,4 @@
-## 📈 Supermarket Sales Forecasting Dashboard
+## 📈 SuperStore Sales Forecasting Dashboard
 
 ### 📌 Project Overview
 This project focuses on building an intuitive dashboard and forecasting model to help supermarkets improve their sales strategies. By leveraging data analysis techniques and time series forecasting, the solution aims to provide actionable insights for short-term sales predictions and strategic decision-making.
