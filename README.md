@@ -1,12 +1,22 @@
-##📈 Supermarket Sales Forecasting Dashboard
+## 📈 Supermarket Sales Forecasting Dashboard
 
-###📌 Project Overview
+### 📌 Project Overview
 This project focuses on building an intuitive dashboard and forecasting model to help supermarkets improve their sales strategies. By leveraging data analysis techniques and time series forecasting, the solution aims to provide actionable insights for short-term sales predictions and strategic decision-making.
 
-###🧠 Objective
+---
+
+### 🧠 Objective
 To contribute to the success of a business by using data analysis techniques, specifically time series analysis, to provide meaningful insights and accurate sales forecasting.
 
-###🔍 Project Components
+---
+
+### 📁 Data Source  
+The dataset can be accessed via:  
+📌 **Datasets Folder**: https://github.com/HettikLimbani/Credit_Card_Financial_Dashboard/tree/main/Datasets
+
+---
+
+### 🔍 Project Components
 1. 📊 Dashboard Creation
 Identified key performance indicators (KPIs) relevant to sales and business growth.
 
@@ -29,12 +39,16 @@ Delivered insights and strategic recommendations to enhance supermarket performa
 
 Focused on improving growth, efficiency, and customer satisfaction through data-backed decisions.
 
-###🛠️ Tools & Technologies
+---
+
+### 🛠️ Tools & Technologies
 Python / Power BI / Excel (depending on your implementation)
 
 Data Visualization libraries (Matplotlib, Seaborn, or Power BI)
 
-###📥 How to Use
+---
+
+### 📥 How to Use
 Clone the repository:
 
 bash
@@ -48,7 +62,9 @@ Run preprocessing and forecasting scripts.
 
 View or launch the dashboard for interactive insights.
 
-###📊 Key Deliverables
+---
+
+### 📊 Key Deliverables
 Interactive dashboard showing KPIs and sales trends
 
 15-day rolling sales forecast
@@ -57,8 +73,12 @@ Visual analysis of customer behavior and product performance
 
 Strategic recommendations based on analysis
 
-###📜 License
+---
+
+### 📜 License
 This project is licensed under the MIT License.
 
-###🤝 Contributions
+---
+
+### 🤝 Contributions
 Contributions are welcome! Please open issues or submit a pull request if you’d like to help improve the project.
