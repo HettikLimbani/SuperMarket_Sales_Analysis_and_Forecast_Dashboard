@@ -12,7 +12,7 @@ To contribute to the success of a business by using data analysis techniques, sp
 
 ### 📁 Data Source  
 The dataset can be accessed via:  
-📌 **Datasets Folder**: https://github.com/HettikLimbani/Credit_Card_Financial_Dashboard/tree/main/Datasets
+📌 **Datasets Folder**: https://github.com/HettikLimbani/SuperMarket_Sales_Analysis_and_Forecast_Dashboard/tree/main/Datasets
 
 ---
 
@@ -48,20 +48,11 @@ Data Visualization libraries (Matplotlib, Seaborn, or Power BI)
 
 ---
 
-### 📥 How to Use
-Clone the repository:
+### 📥 Installation & Setup
+1. Clone the repository
+git clone https://github.com/HettikLimbani/SuperMarket_Sales_Analysis_and_Forecast_Dashboard/
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/supermarket-sales-forecasting.git  
-cd supermarket-sales-forecasting  
-Load the dataset into your analysis environment.
-
-Run preprocessing and forecasting scripts.
-
-View or launch the dashboard for interactive insights.
-
+2. Open Power BI and load the processed dataset.
 ---
 
 ### 📊 Key Deliverables
